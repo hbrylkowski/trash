@@ -46,7 +46,7 @@ export function App() {
             <h1>Śmiecioszukajka</h1>
             <div class="card">
                 <input type="text"
-                       class="bg-gray-900 w-full p-3 m-2 border-2 border-gray-300 rounded bg-gray-100 text-lg focus:border-green-500 focus:bg-green-100 transition-colors duration-300 ease-in-out"
+                       class="bg-gray-900 w-full p-3 m-2 border-2 border-gray-300 rounded bg-gray-100 text-lg focus:border-green-500 focus:bg-green-100 focus:text-gray-950 transition-colors duration-300 ease-in-out"
                        onInput={(a) => searchTrash(a.target.value)}/>
                 <div>
                     {searchResults.map(result => {
