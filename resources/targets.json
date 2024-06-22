@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1",
+    "name": "Agrafka",
+    "targets": [
+      {
+        "id": "23",
+        "name": "worek/pojemnik \u017c\u00f3\u0142ty"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Akumulator samochodowy",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "21",
+        "name": "Elektrobrygada na telefon"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/Elektrobrygada.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Antena satelitarna",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "21",
+        "name": "Elektrobrygada na telefon"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/Elektrobrygada.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Aparat fotograficzny",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "21",
+        "name": "Elektrobrygada na telefon"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/Elektrobrygada.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Balon dmuchany",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Butelka szklana po napojach",
+    "targets": [
+      {
+        "id": "28",
+        "name": "worek/pojemnik zielony"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Cerata",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Choinka naturalna",
+    "targets": [
+      {
+        "id": "31",
+        "name": "odbi\u00f3r odpad\u00f3w zielonych"
+      },
+      {
+        "id": "32",
+        "name": "PSZOK (tylko Barycz)"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Choinka sztuczna",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "30",
+        "name": "odbi\u00f3r odpad\u00f3w wielkogabarytowych"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Deska do krojenia plastikowa",
+    "targets": [
+      {
+        "id": "23",
+        "name": "worek/pojemnik \u017c\u00f3\u0142ty"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Deska do krojenia drewniana",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "D\u0119tka rowerowa",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Doniczka ceramiczna",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "E-papieros",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "24",
+        "name": "EKO-PUDE\u0141KO"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/eko-pudelko.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Elektryczna szczoteczka do z\u0119b\u00f3w",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "21",
+        "name": "Elektrobrygada na telefon"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "24",
+        "name": "EKO-PUDE\u0141KO"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/Elektrobrygada.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/eko-pudelko.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Guma do \u017cucia",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Kalosze gumowe",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Kieliszek szklany",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Kubek ceramiczny",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Kwiaty sztuczne",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Meble",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "30",
+        "name": "odbi\u00f3r odpad\u00f3w wielkogabarytowych"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "name": "Szk\u0142o zbrojone",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "name": "\u015acinki krawieckie drobne",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "name": "Tablica korkowa",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "name": "Torba na zakupy plastikowa",
+    "targets": [
+      {
+        "id": "23",
+        "name": "worek/pojemnik \u017c\u00f3\u0142ty"
+      }
+    ]
+  },
+  {
+    "id": "374",
+    "name": "Aba\u017cur du\u017cy",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "name": "Aba\u017cur ma\u0142y",
+    "targets": [
+      {
+        "id": "20",
+        "name": "pojemnik czarny/szary"
+      }
+    ]
+  },
+  {
+    "id": "380",
+    "name": "Akumulatorek-baterie",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "22",
+        "name": "punkt sprzeda\u017cy"
+      },
+      {
+        "id": "24",
+        "name": "EKO-PUDE\u0141KO"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"><br><img src=\"https://kiedywywoz.pl/API/odpady/icons/eko-pudelko.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "name": "Armatura hydrauliczna (drobna)",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "23",
+        "name": "worek/pojemnik \u017c\u00f3\u0142ty"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  },
+  {
+    "id": "384",
+    "name": "Armatura hydrauliczna (wielkogabarytowa)",
+    "targets": [
+      {
+        "id": "2",
+        "name": "PSZOK"
+      },
+      {
+        "id": "IMG",
+        "name": "<div><img src=\"https://kiedywywoz.pl/API/odpady/icons/pszok.png\"></div>"
+      }
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+{
+  "1": {
+    "id": "1",
+    "text": "Agrafka"
+  },
+  "3": {
+    "id": "3",
+    "text": "Akumulator samochodowy"
+  },
+  "5": {
+    "id": "5",
+    "text": "Antena satelitarna"
+  },
+  "6": {
+    "id": "6",
+    "text": "Aparat fotograficzny"
+  },
+  "9": {
+    "id": "9",
+    "text": "Balon dmuchany"
+  },
+  "27": {
+    "id": "27",
+    "text": "Butelka szklana po napojach"
+  },
+  "35": {
+    "id": "35",
+    "text": "Cerata"
+  },
+  "38": {
+    "id": "38",
+    "text": "Choinka naturalna"
+  },
+  "39": {
+    "id": "39",
+    "text": "Choinka sztuczna"
+  },
+  "46": {
+    "id": "46",
+    "text": "Deska do krojenia plastikowa"
+  },
+  "47": {
+    "id": "47",
+    "text": "Deska do krojenia drewniana"
+  },
+  "50": {
+    "id": "50",
+    "text": "D\u0119tka rowerowa"
+  },
+  "53": {
+    "id": "53",
+    "text": "Doniczka ceramiczna"
+  },
+  "61": {
+    "id": "61",
+    "text": "E-papieros"
+  },
+  "65": {
+    "id": "65",
+    "text": "Elektryczna szczoteczka do z\u0119b\u00f3w"
+  },
+  "90": {
+    "id": "90",
+    "text": "Guma do \u017cucia"
+  },
+  "102": {
+    "id": "102",
+    "text": "Kalosze gumowe"
+  },
+  "113": {
+    "id": "113",
+    "text": "Kieliszek szklany"
+  },
+  "131": {
+    "id": "131",
+    "text": "Kubek ceramiczny"
+  },
+  "136": {
+    "id": "136",
+    "text": "Kwiaty sztuczne"
+  },
+  "156": {
+    "id": "156",
+    "text": "Meble"
+  },
+  "290": {
+    "id": "290",
+    "text": "Szk\u0142o zbrojone"
+  },
+  "294": {
+    "id": "294",
+    "text": "\u015acinki krawieckie drobne"
+  },
+  "315": {
+    "id": "315",
+    "text": "Tablica korkowa"
+  },
+  "327": {
+    "id": "327",
+    "text": "Torba na zakupy plastikowa"
+  },
+  "374": {
+    "id": "374",
+    "text": "Aba\u017cur du\u017cy"
+  },
+  "375": {
+    "id": "375",
+    "text": "Aba\u017cur ma\u0142y"
+  },
+  "380": {
+    "id": "380",
+    "text": "Akumulatorek-baterie"
+  },
+  "383": {
+    "id": "383",
+    "text": "Armatura hydrauliczna (drobna)"
+  },
+  "384": {
+    "id": "384",
+    "text": "Armatura hydrauliczna (wielkogabarytowa)"
+  },
+  "386": {
+    "id": "386",
+    "text": "Azbest (drobne elementy)"
+  },
+  "387": {
+    "id": "387",
+    "text": "Banda\u017c, gaza"
+  },
+  "388": {
+    "id": "388",
+    "text": "Basen ogrodowy, du\u017cy z oprzyrz\u0105dowaniem"
+  },
+  "389": {
+    "id": "389",
+    "text": "Basen ogrodowy/balkonowy, ma\u0142y z tworzywa sztucznego"
+  },
+  "390": {
+    "id": "390",
+    "text": "Bateria elektryczna ma\u0142ogabarytowa i guzikowa"
+  },
+  "391": {
+    "id": "391",
+    "text": "Bateria elektryczna wielkogabarytowa"
+  },
+  "92": {
+    "id": "92",
+    "text": "Grzejnik elektryczny"
+  },
+  "142": {
+    "id": "142",
+    "text": "Lampki choinkowe"
+  },
+  "153": {
+    "id": "153",
+    "text": "Ma\u015b\u0107 (lekarstwo)"
+  },
+  "155": {
+    "id": "155",
+    "text": "Materac dmuchany"
+  },
+  "169": {
+    "id": "169",
+    "text": "Odchody zwierz\u0105t domowych"
+  },
+  "200": {
+    "id": "200",
+    "text": "Papier do pieczenia"
+  },
+  "203": {
+    "id": "203",
+    "text": "Papier \u015bcierny"
+  },
+  "229": {
+    "id": "229",
+    "text": "Porcelana"
+  },
+  "150": {
+    "id": "150",
+    "text": "Lustro du\u017ce"
+  },
+  "197": {
+    "id": "197",
+    "text": "Papier do drukarki"
+  },
+  "264": {
+    "id": "264",
+    "text": "Sedes"
+  },
+  "274": {
+    "id": "274",
+    "text": "Smoczek dzieci\u0119cy"
+  },
+  "280": {
+    "id": "280",
+    "text": "Szczotka do w\u0142os\u00f3w"
+  },
+  "281": {
+    "id": "281",
+    "text": "Szczotka do muszli klozetowej"
+  },
+  "334": {
+    "id": "334",
+    "text": "Toner do drukarki"
+  },
+  "355": {
+    "id": "355",
+    "text": "Wyk\u0142adzina dywanowa"
+  },
+  "149": {
+    "id": "149",
+    "text": "Lusterko ma\u0142e"
+  },
+  "207": {
+    "id": "207",
+    "text": "Paragon fiskalny"
+  },
+  "273": {
+    "id": "273",
+    "text": "Smartfon"
+  },
+  "433": {
+    "id": "433",
+    "text": "Celofan niezanieczyszczony"
+  },
+  "434": {
+    "id": "434",
+    "text": "Celofan trwale zanieczyszczony"
+  },
+  "473": {
+    "id": "473",
+    "text": "Fajans"
+  },
+  "474": {
+    "id": "474",
+    "text": "Faks"
+  },
+  "475": {
+    "id": "475",
+    "text": "Farba emulsyjna, akrylowai inna rozpuszczalna wodorozpuszczalna"
+  },
+  "476": {
+    "id": "476",
+    "text": "Farba olejna i Opakowanie po niej"
+  },
+  "477": {
+    "id": "477",
+    "text": "Filtr do wody"
+  },
+  "478": {
+    "id": "478",
+    "text": "Filtr z maski antysmogowej"
+  },
+  "479": {
+    "id": "479",
+    "text": "Filtr z oczyszczacza powietrza"
+  },
+  "480": {
+    "id": "480",
+    "text": "Filtr z okapu kuchennego"
+  },
+  "481": {
+    "id": "481",
+    "text": "Filtry papierowe do kawy z fusami"
+  },
+  "482": {
+    "id": "482",
+    "text": "Firana"
+  },
+  "483": {
+    "id": "483",
+    "text": "Flamaster bez wk\u0142adu"
+  },
+  "484": {
+    "id": "484",
+    "text": "Flamaster z wk\u0142adem"
+  },
+  "485": {
+    "id": "485",
+    "text": "Folia aluminiowa (glinowa) niezanieczyszczona"
+  },
+  "486": {
+    "id": "486",
+    "text": "Folia b\u0105belkowa"
+  },
+  "285": {
+    "id": "285",
+    "text": "Szk\u0142o ogniotrwa\u0142e"
+  },
+  "362": {
+    "id": "362",
+    "text": "Zegarek mechaniczny"
+  },
+  "377": {
+    "id": "377",
+    "text": "AGD"
+  },
+  "378": {
+    "id": "378",
+    "text": "Agrow\u0142\u00f3knina"
+  },
+  "385": {
+    "id": "385",
+    "text": "Artyku\u0142 higieniczny (zu\u017cyte)"
+  },
+  "392": {
+    "id": "392",
+    "text": "Bateria prysznicowa (wielkogabarytowa)"
+  },
+  "393": {
+    "id": "393",
+    "text": "Bateria umywalkowa lub \u0142azienkowa (ma\u0142ogabarytowa)"
+  },
+  "408": {
+    "id": "408",
+    "text": "Biodegradowalna torba na zakupy"
+  },
+  "407": {
+    "id": "407",
+    "text": "Bindownica i inne mechaniczne urz\u0105dzenia biurowe"
+  },
+  "412": {
+    "id": "412",
+    "text": "Blacha (budowlana, ogrodzeniowa, pokrycia dachowe, ...)"
+  },
+  "414": {
+    "id": "414",
+    "text": "Blaszane naczynie kuchenne du\u017ce"
+  },
+  "415": {
+    "id": "415",
+    "text": "Blaszane naczynie kuchenne ma\u0142e"
+  },
+  "419": {
+    "id": "419",
+    "text": "Bombka choinkowa plastikowa"
+  },
+  "420": {
+    "id": "420",
+    "text": "Bombka choinkowa szklana"
+  },
+  "425": {
+    "id": "425",
+    "text": "Butelka plastikowa po olejach spo\u017cywczych - pusta"
+  },
+  "426": {
+    "id": "426",
+    "text": "Butelka po chemii gospodarczej z tworzyw sztucznych - nieopr\u00f3\u017cniona"
+  },
+  "196": {
+    "id": "196",
+    "text": "Papier listowy"
+  },
+  "269": {
+    "id": "269",
+    "text": "Skorupki jajek"
+  },
+  "320": {
+    "id": "320",
+    "text": "Ta\u015bma klej\u0105ca"
+  },
+  "418": {
+    "id": "418",
+    "text": "Bojler"
+  },
+  "427": {
+    "id": "427",
+    "text": "Butelka po chemii gospodarczej z tworzyw sztucznych - pusta"
+  },
+  "428": {
+    "id": "428",
+    "text": "Butelka po napojach z tworzyw sztucznych"
+  },
+  "429": {
+    "id": "429",
+    "text": "Butelka szklana po olejach spo\u017cywczych - pusta"
+  },
+  "432": {
+    "id": "432",
+    "text": "Buty (codzienne, wyj\u015bciowe, letnie, zimowe, sportowe, wypoczynkowe, turystyczne, robocze, ...)"
+  },
+  "440": {
+    "id": "440",
+    "text": "Chusteczka nawil\u017caj\u0105ca"
+  },
+  "444": {
+    "id": "444",
+    "text": "Czajnik elektryczny"
+  },
+  "445": {
+    "id": "445",
+    "text": "Czajnik metalowy"
+  },
+  "447": {
+    "id": "447",
+    "text": "Czujnik dymu, gazu"
+  },
+  "455": {
+    "id": "455",
+    "text": "Drewno zanieczyszczone substancjami niebezpiecznymi"
+  },
+  "152": {
+    "id": "152",
+    "text": "\u0141\u00f3\u017cko"
+  },
+  "158": {
+    "id": "158",
+    "text": "Muszla klozetowa"
+  },
+  "230": {
+    "id": "230",
+    "text": "Po\u015bciel"
+  },
+  "235": {
+    "id": "235",
+    "text": "Pumeks"
+  },
+  "245": {
+    "id": "245",
+    "text": "Reklam\u00f3wka plastikowa"
+  },
+  "293": {
+    "id": "293",
+    "text": "Szmaty"
+  },
+  "190": {
+    "id": "190",
+    "text": "Opona rowerowa"
+  },
+  "193": {
+    "id": "193",
+    "text": "Papa"
+  },
+  "316": {
+    "id": "316",
+    "text": "Tacka styropianowa"
+  },
+  "318": {
+    "id": "318",
+    "text": "Tapeta"
+  },
+  "338": {
+    "id": "338",
+    "text": "Umywalka"
+  },
+  "793": {
+    "id": "793",
+    "text": "Pami\u0119\u0107 USB (pendrive)"
+  },
+  "840": {
+    "id": "840",
+    "text": "P\u0142yta CD, DVD i podobne"
+  },
+  "258": {
+    "id": "258",
+    "text": "Rower"
+  },
+  "324": {
+    "id": "324",
+    "text": "Termometr elektroniczny"
+  },
+  "325": {
+    "id": "325",
+    "text": "Test ci\u0105\u017cowy"
+  },
+  "284": {
+    "id": "284",
+    "text": "Szklanka"
+  }
+}
