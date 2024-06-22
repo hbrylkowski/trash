@@ -10,15 +10,11 @@ import brown from "./assets/trashcans/brown.png"
 import recycle from "./assets/trashcans/recycle.png"
 
 
-let trashModel;
-let trashEmbeddings;
-
 export function App() {
     const fuse = new Fuse(trashTargets, {
         keys: ['name'],
         includeScore: true,
     })
-    const [count, setCount] = useState(0)
     const [searchResults, setSearchResults] = useState([])
 
     function searchTrash(phrase: string) {
