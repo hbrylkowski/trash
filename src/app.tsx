@@ -53,7 +53,7 @@ export function App() {
                         const item = result.item
                         return (
                             <div key={item.id}
-                                 class="bg-gray-900 max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3">
+                                 class="bg-gray-900 max-w-md mx-auto rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3">
                                 <div class="md:flex">
                                     <div class="md:flex-shrink-0">
                                         <img class="h-24 h-full object-cover md:w-36"
@@ -67,7 +67,7 @@ export function App() {
                                             if (target.id != "IMG") {
                                                 return (
                                                     <div key={target.id}
-                                                         class="p-2 m-2 border-2 border-gray-300 rounded bg-gray-100 text-lg">
+                                                         class="p-2 m-2 border-2 border-gray-300 rounded bg-gray-800 text-lg">
                                                         {target.name}
                                                     </div>
                                                 )
