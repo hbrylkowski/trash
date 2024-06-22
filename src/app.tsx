@@ -63,7 +63,7 @@ export function App() {
                                 <div key={item.id}
                                      class="bg-gray-900 max-w-md mx-auto rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3">
                                     <div class="md:flex">
-                                        <div class="hidden md:block md:flex-shrink-0 flex items-center">
+                                        <div class="hidden md:flex md:flex-shrink-0 items-center">
                                             <img class="max-w-0 md:max-w-36 p-4"
                                                  src={nameToImage(item.targets[0].name)}
                                                  alt={item.name}/>
