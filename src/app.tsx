@@ -46,14 +46,14 @@ export function App() {
             <h1>Śmiecioszukajka</h1>
             <div class="card">
                 <input type="text"
-                       class="w-full p-3 m-2 border-2 border-gray-300 rounded bg-gray-100 text-lg focus:border-green-500 focus:bg-green-100 transition-colors duration-300 ease-in-out"
+                       class="bg-gray-900 w-full p-3 m-2 border-2 border-gray-300 rounded bg-gray-100 text-lg focus:border-green-500 focus:bg-green-100 transition-colors duration-300 ease-in-out"
                        onInput={(a) => searchTrash(a.target.value)}/>
                 <div>
                     {searchResults.map(result => {
                         const item = result.item
                         return (
                             <div key={item.id}
-                                 class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3">
+                                 class="bg-gray-900 max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-3">
                                 <div class="md:flex">
                                     <div class="md:flex-shrink-0">
                                         <img class="h-24 h-full object-cover md:w-36"
